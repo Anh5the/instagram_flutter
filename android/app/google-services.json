@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634883759184",
+    "project_id": "instagram-nhom5",
+    "storage_bucket": "instagram-nhom5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634883759184:android:be2dcc7d8834daa82c4555",
+        "android_client_info": {
+          "package_name": "com.example.instagram_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWRrcOpTYe_WKY4UtQK1ijpoj_-VJSlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
